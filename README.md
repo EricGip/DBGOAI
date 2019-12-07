@@ -4,6 +4,7 @@ The game of Go (simplified Chinese: 围棋; traditional Chinese: 圍棋; pinyin:
 
 Example: Run this in commmand line  
 python human_v_bot.py to play vs the bot  
+   * To change difficulties, go into the file and change one variable!
 python bot_v_bot.py to watch the bots play  
 
 To do's:  
