@@ -4,5 +4,5 @@ The game of Go (simplified Chinese: 围棋; traditional Chinese: 圍棋; pinyin:
 
 
 
-To do's:
+To do's:  
   for now, we goboard.py is only opitmized with Zobrist hashing but can be much much further optimized. need to create goboard_fast.py
