@@ -7,8 +7,9 @@ I wanted to take advantage of going to a university with respected professors in
 
 From game theory, I wondered how difficult a game of imperfect information can be for AI.  
    - While Go and chess are both sequential, a core strategy for chess is backwards induction since you have perfect information and pieces are fixed. 
-   - In Go, you don't have this luxury since you can place a board anywhere on the grid/pieces are not fixed and there are a lot more complicated test cases/strategies you have to account for than you would for chess, allowing me to be more prepared for realistic cases with TensorFlow.   
-       - E.g Territoy to speed up games, Ko, Self Capture, Eyes.
+   - In Go, you don't have this luxury since you can place a board anywhere on the grid/pieces are not fixed and there are a lot more complicated test cases/strategies you have to account for than you would for chess, allowing me to be more prepared for realistic cases with TensorFlow. 
+       - After the first two moves of a Chess game, there are 400 possible next moves. In Go, there are close to 130,000, so our neural network can be much more unique than other Go bots.  
+       - E.g Territory to speed up games, Ko, Self Capture, Eyes.
    
 From Chinese history, I understood my ethnic background that i've forgotten and wanted to pay homage to my culture by learning a "worthy past time for a gentleman" rather than the video games that were deemed unworthy by my grandparents, kind of mixing in both :).
 
