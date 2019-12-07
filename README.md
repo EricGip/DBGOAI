@@ -2,7 +2,7 @@
 
 The game of Go originated in China in ancient times. It was considered one of the four essential arts of a cultured Chinese scholar in antiquity and is described as a worthy pastime for a gentleman in the Analects of Confucius.
 
-This year, I wanted to take advantage of going to a university with respected professors in multiple disciplines so I decided to take a Game Theory and a mdern Chinese history class as a Statistics major interested in AI.  
+I wanted to take advantage of going to a university with respected professors in multiple disciplines so I decided to take a Game Theory and a mdern Chinese history class as a Statistics major interested in AI.  
 
 From game theory, I wondered how difficult a game of imperfect information can be for AI.  
    - While Go and chess are both sequential, a core strategy for chess is backwards induction since you have perfect information and pieces are fixed. 
