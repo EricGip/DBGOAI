@@ -24,3 +24,8 @@ python bot_v_bot.py to watch the bots play
 
 To do's:  
   for now, we goboard.py is only opitmized with Zobrist hashing but can be much much further optimized. need to create goboard_fast.py
+
+
+Sources
+----------
+Pumperla, M., & Ferguson, K. (2019). Deep learning and the game of Go. Shelter Island, NY: Manning Publications Co.
