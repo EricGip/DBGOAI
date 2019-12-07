@@ -6,7 +6,7 @@ I wanted to take advantage of going to a university with respected professors in
 
 From game theory, I wondered how difficult a game of imperfect information can be for AI.  
    - While Go and chess are both sequential, a core strategy for chess is backwards induction since you have perfect information and pieces are fixed. 
-   - In Go, you don't have this luxury since you can place a board anywhere on the grid and there are a lot more complicated test cases/strategies you have to account for than you would for chess.   
+   - In Go, you don't have this luxury since you can place a board anywhere on the grid and there are a lot more complicated test cases/strategies, such as Ko or Self-capture, you have to account for than you would for chess.   
    
 From Chinese history, I understood my ethnic background that i've forgotten and wanted to pay homage to my culture by learning a "worthy past time for a gentleman" rather than the video games that were deemed unworthy by my grandparents. 
 
