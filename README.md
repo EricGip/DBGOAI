@@ -2,7 +2,7 @@
 
 The game of Go originated in China in ancient times. It was considered one of the four essential arts of a cultured Chinese scholar in antiquity and is described as a worthy pastime for a gentleman in the Analects of Confucius.
 
-I wanted to take advantage of going to a university with respected professors in multiple disciplines so I decided to take a Game Theory and a modern Chinese history class as a Statistics major interested in AI. 
+I wanted to take advantage of going to a university with respected professors in multiple disciplines so I decided to take a Game Theory and a modern Chinese history class as a Statistics major interested in AI to gain as much domain knowledge as possible.. 
 
 
 From game theory, I wondered how difficult a game of imperfect information can be for AI.  
