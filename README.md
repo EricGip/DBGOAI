@@ -1,6 +1,6 @@
 # DBGOAI  
 
-The game of Go (simplified Chinese: 围棋; traditional Chinese: 圍棋; pinyin: About this soundwéiqí) originated in China in ancient times. It was considered one of the four essential arts of a cultured Chinese scholar in antiquity and is described as a worthy pastime for a gentleman in the Analects of Confucius.
+The game of Go originated in China in ancient times. It was considered one of the four essential arts of a cultured Chinese scholar in antiquity and is described as a worthy pastime for a gentleman in the Analects of Confucius.
 
 Example: Run this in commmand line  
 python human_v_bot.py to play vs the bot  
