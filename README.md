@@ -10,7 +10,7 @@ From game theory, I wondered how difficult a game of imperfect information can b
    - In Go, you don't have this luxury since you can place a board anywhere on the grid and there are a lot more complicated test cases/strategies you have to account for than you would for chess, allowing me to be more prepared for realistic cases with TensorFlow.   
        - E.g Ko, Self Capture, Eyes.
    
-From Chinese history, I understood my ethnic background that i've forgotten and wanted to pay homage to my culture by learning a "worthy past time for a gentleman" rather than the video games that were deemed unworthy by my grandparents. 
+From Chinese history, I understood my ethnic background that i've forgotten and wanted to pay homage to my culture by learning a "worthy past time for a gentleman" rather than the video games that were deemed unworthy by my grandparents, kind of mixing in both :).
 
 I've decided to knock out two birds with one stone by working on a Machine Learning project and deeper understanding for strategy games.
    * Games also simplify complexities of real life, so we only need to focus on the algorithm.
